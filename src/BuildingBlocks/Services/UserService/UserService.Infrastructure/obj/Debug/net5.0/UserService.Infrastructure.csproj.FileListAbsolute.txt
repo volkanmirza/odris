@@ -1,0 +1,11 @@
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\bin\Debug\net5.0\UserService.Infrastructure.deps.json
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\bin\Debug\net5.0\UserService.Infrastructure.dll
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\bin\Debug\net5.0\ref\UserService.Infrastructure.dll
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\bin\Debug\net5.0\UserService.Infrastructure.pdb
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\UserService.Infrastructure.AssemblyInfoInputs.cache
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\UserService.Infrastructure.AssemblyInfo.cs
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\UserService.Infrastructure.dll
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\ref\UserService.Infrastructure.dll
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\UserService.Infrastructure.pdb

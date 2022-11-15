@@ -1,0 +1,15 @@
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.exe
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.deps.json
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.runtimeconfig.json
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.runtimeconfig.dev.json
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.dll
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\bin\Debug\net5.0\ref\NotificationService.dll
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.pdb
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.AssemblyInfoInputs.cache
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.AssemblyInfo.cs
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.csproj.CoreCompileInputs.cache
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.dll
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\ref\NotificationService.dll
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.pdb
+C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.genruntimeconfig.cache
