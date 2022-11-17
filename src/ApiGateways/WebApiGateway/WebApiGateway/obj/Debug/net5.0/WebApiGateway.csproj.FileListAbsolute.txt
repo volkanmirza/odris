@@ -26,3 +26,4 @@ C:\Source\My\Odris\odris\src\ApiGateways\WebApiGateway\WebApiGateway\obj\Debug\n
 C:\Source\My\Odris\odris\src\ApiGateways\WebApiGateway\WebApiGateway\obj\Debug\net5.0\ref\WebApiGateway.dll
 C:\Source\My\Odris\odris\src\ApiGateways\WebApiGateway\WebApiGateway\obj\Debug\net5.0\WebApiGateway.pdb
 C:\Source\My\Odris\odris\src\ApiGateways\WebApiGateway\WebApiGateway\obj\Debug\net5.0\WebApiGateway.genruntimeconfig.cache
+C:\Source\My\Odris\Odris\src\ApiGateways\WebApiGateway\WebApiGateway\obj\Debug\net5.0\WebApiGateway.csproj.AssemblyReference.cache

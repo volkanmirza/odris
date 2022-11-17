@@ -9,3 +9,11 @@ C:\Source\My\Odris\odris\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\
 C:\Source\My\Odris\odris\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.dll
 C:\Source\My\Odris\odris\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\ref\EventBus.Factory.dll
 C:\Source\My\Odris\odris\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.pdb
+C:\Source\My\Odris\Odris\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.AzureServiceBus.dll
+C:\Source\My\Odris\Odris\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Base.dll
+C:\Source\My\Odris\Odris\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.RabbitMQ.dll
+C:\Source\My\Odris\Odris\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.AzureServiceBus.pdb
+C:\Source\My\Odris\Odris\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Base.pdb
+C:\Source\My\Odris\Odris\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.RabbitMQ.pdb
+C:\Source\My\Odris\Odris\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.csproj.AssemblyReference.cache
+C:\Source\My\Odris\Odris\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.csproj.CopyComplete

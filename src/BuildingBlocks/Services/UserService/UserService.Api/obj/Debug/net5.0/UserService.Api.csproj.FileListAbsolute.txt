@@ -26,3 +26,4 @@ C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Api
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Api\obj\Debug\net5.0\ref\UserService.Api.dll
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Api\obj\Debug\net5.0\UserService.Api.pdb
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Api\obj\Debug\net5.0\UserService.Api.genruntimeconfig.cache
+C:\Source\My\Odris\Odris\src\BuildingBlocks\Services\UserService\UserService.Api\obj\Debug\net5.0\UserService.Api.csproj.AssemblyReference.cache
