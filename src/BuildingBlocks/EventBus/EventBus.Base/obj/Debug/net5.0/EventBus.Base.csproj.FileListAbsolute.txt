@@ -9,3 +9,4 @@ C:\Source\My\Odris\odris\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net
 C:\Source\My\Odris\odris\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.dll
 C:\Source\My\Odris\odris\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\ref\EventBus.Base.dll
 C:\Source\My\Odris\odris\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.pdb
+C:\Source\My\Odris\Odris\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.csproj.AssemblyReference.cache

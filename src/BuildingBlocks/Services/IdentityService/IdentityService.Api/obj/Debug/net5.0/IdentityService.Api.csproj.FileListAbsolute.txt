@@ -26,3 +26,4 @@ C:\Source\My\Odris\odris\src\BuildingBlocks\Services\IdentityService\IdentitySer
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\IdentityService\IdentityService.Api\obj\Debug\net5.0\ref\IdentityService.Api.dll
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\IdentityService\IdentityService.Api\obj\Debug\net5.0\IdentityService.Api.pdb
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\IdentityService\IdentityService.Api\obj\Debug\net5.0\IdentityService.Api.genruntimeconfig.cache
+C:\Source\My\Odris\Odris\src\BuildingBlocks\Services\IdentityService\IdentityService.Api\obj\Debug\net5.0\IdentityService.Api.csproj.AssemblyReference.cache

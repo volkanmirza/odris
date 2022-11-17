@@ -9,3 +9,4 @@ C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Inf
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\UserService.Infrastructure.dll
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\ref\UserService.Infrastructure.dll
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\UserService.Infrastructure.pdb
+C:\Source\My\Odris\Odris\src\BuildingBlocks\Services\UserService\UserService.Infrastructure\obj\Debug\net5.0\UserService.Infrastructure.csproj.AssemblyReference.cache
