@@ -13,4 +13,3 @@ C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\Notific
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\ref\NotificationService.dll
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.pdb
 C:\Source\My\Odris\odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.genruntimeconfig.cache
-C:\Source\My\Odris\Odris\src\BuildingBlocks\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.csproj.AssemblyReference.cache
